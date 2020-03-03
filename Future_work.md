@@ -1,2 +1,2 @@
-- id: before removing use information to fill NAN, if there are multiply ids with missing cells
-- 
+- Analyse impact of 'waterfront' and 'yr_renovated'
+- Before removing 'id' use information to fill NAN, if there are multiply ids with missing cells
