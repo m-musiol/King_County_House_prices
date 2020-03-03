@@ -1,13 +1,16 @@
 # Projekt: King County House prices
 
-Preparatory work: 
+## Preparatory work: 
 - Load Dataset into Jupyter
 - Creat repository in GitHub
 
-01) Business Understanding
-- have a look at the Dataset
+## 01) Business Understanding
+- Have a look at the Dataset
+- Understand columns
 
-02) Data Mining
+## 02) Data Mining
+- Remove columns without useful informations
+  id
 
 Data Cleaning:
 
