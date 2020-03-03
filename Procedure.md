@@ -10,12 +10,13 @@
 - What might impact the price?
 
 ## 02) Data Mining
-- Remove columns without useful informations ('id', ...)
+- Remove columns without useful informations 
+  
+  ('id', 'date', 'view', 'sqft_above', 'sqft_basement', 'lat', 'long', 'sqft_living15', 'sqft_lot15')
 
 ## 03) Data Cleaning
-- Replace (" ", "_") in columns
-- Convertion data types ('dates', ...)
-- Dealing with NAN
+- Convertion data types (...)
+- Dealing with NAN (delet columns)
 
 ## 04) Data Exploration
 - Visualize all features by using scatter_matrix
