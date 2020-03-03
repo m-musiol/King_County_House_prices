@@ -26,6 +26,7 @@
 
 ## 05) Feature Engineering
 - Creating new features by using raw data
+- Mean price by zipcode 
 
 ## 06) Predictive Modelling
 - Multiple Regression Model
