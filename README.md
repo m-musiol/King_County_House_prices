@@ -1,6 +1,6 @@
 # Projekt: King County House prices
 
-## Preparatory work: 
+## Preparatory work 
 - Load Dataset into Jupyter
 - Creat repository in GitHub
 
@@ -9,10 +9,15 @@
 - Understand columns
 
 ## 02) Data Mining
-- Remove columns without useful informations
-  id
+- Remove columns without useful informations ('id', ...)
 
-Data Cleaning:
+## 03) Data Cleaning
+- Replace (" ","_") in columns
+- Parse dates
+- Dealing with NAN
+
+## 04) Data 
+
 
 Data types (deals with conversion of data types)
 Missing data (handles missing values)
