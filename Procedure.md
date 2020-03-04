@@ -17,6 +17,7 @@
 ## 03) Data Cleaning
 - Convertion data types (...)
 - Dealing with NAN (delet columns)
+- Remove Outlier
 
 ## 04) Data Exploration
 - Visualize all features by using scatter_matrix
