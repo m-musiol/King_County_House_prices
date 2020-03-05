@@ -1,5 +1,7 @@
 # Project: King County House prices step by step
 
+This is my first project in Data Science
+
 ## Preparatory work 
 - Load Dataset into Jupyter
 - Creat repository in GitHub
@@ -34,3 +36,7 @@
 
 ## 07) Data Visualization
 - Plot relavant informations to transport the message
+
+## 08) Future work
+- no time to test all of my ideas
+- listed some of them at the end of the notebook
